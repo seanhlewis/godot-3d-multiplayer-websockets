@@ -1,6 +1,6 @@
-# Godot Multiplayer Template
+# Godot Multiplayer Template Websockets
 
-This is a template for a 3D multiplayer game developed in Godot Engine 4.3. It provides a basic structure for a multiplayer setup, where each player has a nickname displayed above their character and the option to choose from four different skins: red, green, blue, or yellow.
+This is a template for a 3D multiplayer game developed in Godot Engine 4.4.1. It provides a basic structure for a multiplayer setup with Websockets, where each player has a nickname displayed above their character and the option to choose from four different skins: red, green, blue, or yellow.
 
 ## How to run the project
 
